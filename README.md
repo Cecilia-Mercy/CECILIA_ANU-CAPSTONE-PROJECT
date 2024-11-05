@@ -182,4 +182,13 @@ This allow the users to drill down and filter data:
 ![EXCEL GRAPH](https://github.com/user-attachments/assets/71d990c3-25e7-405b-8224-82673d62d3aa)
 
 
-### 8. Recommendation Thank
+### 8. Conclusion
+"This project offers a comprehensive solution to Sales Data.csv by utilizing (https://www.microsoft.com), (https://www.microsoft.com/power-bi),(https://www.microsoft.com/sqlserver) With the steps provided,i have a complete setup and a good understanding of how to use [Cecilia_Anu-Capstone-Project] effectively."
+
+Benefits and Impact:
+"By implementing the project i could attempt and conveninetly work on the project given. It enhances my development process and provides a solid foundation for further enhancements."
+
+Encourage Feedback and Contributions:i am open to users to contribute to my project, report issues, or suggest improvements. Link to the (https://github.com/Cecilia-Mercy/CECILIA_ANU-CAPSTONE-PROJECT/edit/main/README).
+
+
+"Thank you for using [(https://github.com/Cecilia-Mercy/CECILIA_ANU-CAPSTONE-PROJECT/edit/main/README.md)] and being part of our community! We look forward to seeing how you make the most of it."
