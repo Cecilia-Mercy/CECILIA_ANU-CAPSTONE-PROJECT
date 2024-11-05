@@ -34,6 +34,9 @@ Excel: Used for initial data preparation, stakeholder data submission, and certa
 - -Microsoft SQL Server:r(For Quering and Analysis) As the primary data source for structured storage and query processing.
   2. *Connect to Data Sources*:
   - *SQL Server Data: Use *Get Data > SQL Server to connect to the SQL Server database and import key tables. Enter your SQL Server credentials and select tables with insights like top-performing products, sales by region, and customer data.
+- *Performance Optimization*: Consider indexing columns like TransactionDate, ProductID, and Region to improve query performance.
+- *Data Validation*: it Ensure the data loaded in SQL Server matches the source file.
+- *Customizations*: it Adapt queries to reflect your data structure or analysis needs.
     
 - Power BI: For data visualization and dashboarding.
 - *Power BI Desktop*: We used Power BI Desktop application for building the dashboard.
