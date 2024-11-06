@@ -158,6 +158,16 @@ This allow the users to drill down and filter data:
 ![AC Q8](https://github.com/user-attachments/assets/e97366a0-582b-405e-a798-7df90eacb8ed)
 
 ### The SQL Screenshots for Customer Data Execution
+![CD A7](https://github.com/user-attachments/assets/4101d9cf-7860-4b93-a24e-4911950af4ce)
+![CD A6](https://github.com/user-attachments/assets/e63ed469-f5dc-4efb-abb2-c48866e47256)
+![CD A5](https://github.com/user-attachments/assets/b3de820f-4c8c-42dd-bd30-95e1eb3b365a)
+![CD A4](https://github.com/user-attachments/assets/34b45f95-9997-4cea-954d-852edda2428c)
+![CD A3](https://github.com/user-attachments/assets/cb7c2dca-8119-4948-bc69-eae577cb4896)
+![CD A2](https://github.com/user-attachments/assets/cdbca658-9b78-4122-81bf-761ddfc1cc78)
+![CD A1](https://github.com/user-attachments/assets/5176e819-7efe-4545-94fd-3d60dfbeb777)
+![CD A10](https://github.com/user-attachments/assets/eed1b93b-d787-4842-a312-cff3b7cfbf6c)
+![CD A9](https://github.com/user-attachments/assets/f37eec58-086a-4c37-acc4-2dfac0ae6bab)
+![CD A8](https://github.com/user-attachments/assets/4776ff57-6041-44de-8a9c-1d89dc2393f1)
 
 ### The Power BI screenshots
 ![ANU PAGE 1](https://github.com/user-attachments/assets/b681253f-4951-4794-91df-a29647fa8620)
