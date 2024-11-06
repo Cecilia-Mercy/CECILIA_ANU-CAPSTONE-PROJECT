@@ -10,7 +10,7 @@
 6. [Data Analysis](#data-analysis)
 7. [Data Visualizations](#data-visualizations)
 8. [Conclusion](#conclusion)
-
+   
 ### 1. Overview
 ---
 This Data Analysis project aims to gererate insight into the sales performance of a Sales transaction from different categories. The goal is to deliver an interactive and visually appealing dashboard that helps stakeholders easily understand sales performance across various dimensions, and also to Provide Insight into the Revenune, and different other summaries contained within the data. The objective of this project is to create an automated, dynamic reporting system using Power BI that pulls data from Microsoft SQL Server and Excel. The reporting solution enables users to explore and monitor key metrics with interactive dashboards, saving time on manual report creation and improving access to real-time data insights..
