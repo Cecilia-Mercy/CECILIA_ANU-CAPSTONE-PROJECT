@@ -18,14 +18,12 @@ This Data Analysis project aims to gererate insight into the sales performance o
 ### 2. Data Source
 ---
 The Primary sourcs of Data here is Salesdata.csv and this is an open source that can was given to work with by the Incubators hub, tagged capstone project Dataset.
-
 - Built a Power BI dashboard to visualize sales data, focusing on metrics like total sales, product performance, and regional breakdowns.
 - Incorporate findings from Excel and SQL analyses to ensure a comprehensive view of the data.
 - Enable users to interact with the dashboard and drill down into specific data points.
 
 ### 3. Tools Used 
 ---
-
 Excel: Used for initial data preparation, stakeholder data submission, and certain manual calculations
   1.  For Data cleanig (www.microsoft.com)
      -*Excel File: Use the *Get Data option to connect to the Excel file. Select the relevant tables or sheets that contain summarized sales data, such as total sales, regional breakdowns, and monthly sales
@@ -176,7 +174,6 @@ This allow the users to drill down and filter data:
 ### The Excel Screenshots and Graphs
 ![EXCEL GRAGH CUST DATA](https://github.com/user-attachments/assets/a11b0fa6-6105-4f93-bd6c-d3c05662af8b)
 ![EXCEL CUST DATA](https://github.com/user-attachments/assets/5a0a6bcb-50a6-4990-bca4-a541fdfb0c91)
-![CECILIA LITA PBI PAGE 2](https://github.com/user-attachments/assets/9b692870-47f7-4a57-bb53-0df31864eb24)
 ![ANU PAGE 1](https://github.com/user-attachments/assets/ebb2238e-04ae-4ab5-9ce5-fef2afbc11a0)
 ![SALES DATA SUMMARY EXCEL](https://github.com/user-attachments/assets/3109076e-4cb8-44b8-b671-bc80bb7b29b4)
 ![EXCEL GRAPH](https://github.com/user-attachments/assets/71d990c3-25e7-405b-8224-82673d62d3aa)
