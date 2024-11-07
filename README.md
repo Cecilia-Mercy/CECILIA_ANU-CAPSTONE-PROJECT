@@ -177,12 +177,12 @@ This allow the users to drill down and filter data:
 ![SALES DATA SUMMARY EXCEL](https://github.com/user-attachments/assets/3109076e-4cb8-44b8-b671-bc80bb7b29b4)
 ![EXCEL GRAPH](https://github.com/user-attachments/assets/71d990c3-25e7-405b-8224-82673d62d3aa)
 ![anu Graph Combination ](https://github.com/user-attachments/assets/5cb32bbd-239a-4d3e-bd10-3e40385504b7)
-![EXCEL CUST GRAPH](https://github.com/user-attachments/assets/7bb5ea74-4526-4f31-b54c-a697eff898dd)![Excel SALES DATA SUMMARY ](https://github.com/user-attachments/assets/fbf46e2e-2463-4f01-a128-3a1298db49bb)
-![EXCEL GRAPH](https://github.com/user-attachments/assets/1f62e001-049d-49f5-ae25-e504f411c942)
-![EXCEL GRAGH CUST DATA](https://github.com/user-attachments/assets/622e2737-a882-4887-891b-1175e2546634)
-![anu Graph Combination ](https://github.com/user-attachments/assets/6c8ce7d8-d729-41b5-b3be-55f2f8f258d3)
+![EXCEL CUST GRAPH](https://github.com/user-attachments/assets/7bb5ea74-4526-4f31-b54c-a697eff898dd)
+![Excel SALES DATA SUMMARY ](https://github.com/user-attachments/assets/fbf46e2e-2463-4f01-a128-3a1298db49bb)
 ![SALES DA![Uploading ANU EXCEL CUSTOMER DATA 2.jpg…]()
 TA SUMMARY EXCEL](https://github.com/user-attachments/assets/b6e4daa2-400d-457c-a397-264295fafee2)
+![Screenshot 112036](https://github.com/user-attachments/assets/2cbfb9b3-eff4-44a9-88c2-6ccc7505d12b)
+![CUSTOMER DATA SCREENSHOT 1](https://github.com/user-attachments/assets/d4837810-c73c-4590-8f2e-0447e1dc0517)
 
 ### 8. Conclusion
 "This project offers a comprehensive solution to Sales Data.csv by utilizing (https://www.microsoft.com), (https://www.microsoft.com/power-bi),(https://www.microsoft.com/sqlserver) With the steps provided,i have a complete setup and a good understanding of how to use [Cecilia_Anu-Capstone-Project] effectively."
